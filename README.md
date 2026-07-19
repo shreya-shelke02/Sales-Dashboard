@@ -77,7 +77,7 @@ Interactive Filters
 |------|-------------|
 | `Madhav_Ecommerce_Sales_Dashboard.pbix` | Power BI project file (data model, DAX, dashboard) |
 | `Sales Data Source.CSV` | Source sales dataset |
-| `assets/` | Dashboard screenshot(s) used in this README |
+| `assets/` | Dashboard screenshot used in this README |
 
 -------------------------------------------------------------
 
