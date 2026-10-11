@@ -81,6 +81,6 @@ Interactive Filters
 
 -------------------------------------------------------------
 
-💼 Skills Demonstrated
+💼 Skills Demonstrated :
 
 Power BI Dashboard Development · Data Cleaning & Transformation · DAX Measures · KPI Design · Data Visualization · Sales & Profitability Analysis
